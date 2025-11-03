@@ -1,3 +1,4 @@
+
 # README for Wesley's Chess Project June 2023 #
 
 This is the README file for the Wesley's Chess Project June 2023 app. It's a great place to write
@@ -24,5 +25,3 @@ The files in this folder contain everything you need to run your app:
 
 * `assets` - This is a directory with all the asset files (pictures and sounds)
   that you uploaded in applab.
-
-Note: This is not fully functioning and cannot detect checkmate. WIP
